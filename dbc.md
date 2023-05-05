@@ -93,3 +93,8 @@ if __name__ == "__main__":
 ```bash
 spark-submit --py-files /path_to/my_app.dbc my_app.py
 ```
+
+Instructions for loading dbc files (import)
+[On the web UI](https://docs.databricks.com/notebooks/notebook-export-import.html)
+
+[How to load pyspark locally](https://medium.com/swlh/pyspark-on-macos-installation-and-use-31f84ca61400)
